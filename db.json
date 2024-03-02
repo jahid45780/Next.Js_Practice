@@ -1,0 +1,41 @@
+{
+    "post":[
+        {
+          "id": 1,
+          "title": "The Art all of Coding",
+          "description": "Explore the intricate world of coding, where creativity meets logic. Dive into algorithms, data structures, and design patterns, crafting solutions to complex problems.",
+          "like_count": 225 
+        },
+        {
+          "id": 2,
+          "title": "Unlocking the Secrets of the Universe",
+          "description": "Delve into the mysteries of the cosmos, from the vast expanse of space to the tiniest particles. Discover the beauty of physics, astronomy, and cosmology.",
+          "like_count": 398
+        },
+        {
+          "id": 3,
+          "title": "The Joy of Cooking",
+          "description": "Embark on a culinary adventure, mastering the art of cooking. From decadent desserts to savory delights, explore flavors from around the globe.",
+          "like_count": 215
+        },
+        {
+          "id": 4,
+          "title": "Exploring the Wonders of Nature",
+          "description": "Immerse yourself in the beauty and diversity of the natural world. From lush forests to majestic mountains, discover the magic of ecology and biodiversity.",
+          "like_count": 175
+        },
+        {
+          "id": 5,
+          "title": "The Power of Meditation",
+          "description": "Journey inward to find peace and tranquility through meditation. Learn techniques to calm the mind, reduce stress, and cultivate mindfulness.",
+          "like_count": 312
+        },
+        {
+          "id": 6,
+          "title": "Mastering the Art of Photography",
+          "description": "Capture the world through the lens of a camera, exploring light, composition, and storytelling. From landscapes to portraits, unleash your creativity.",
+          "like_count": 188
+        }
+      ]
+      
+}
